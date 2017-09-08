@@ -10,5 +10,8 @@ now nine ok
  ym
 
 
-ten de ym
+ten de yma
+add后的
+checkout 
 
+head
